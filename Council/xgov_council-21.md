@@ -20,9 +20,9 @@ I have been in the web3 space and Algorand for over 5 years. I have led multiple
 
 ## Project Affiliations
 
-- Pact
-- Humble DeFi
-- Algonauts
+- Pact (Algorand)
+- Humble DeFi (Voi)
+- Algonauts (Algorand)
 
 ## Additional Information
 
